@@ -1,0 +1,29 @@
+{
+  "name": "react-learning-app",
+  "version": "1.0.0",
+  "description": "This is an application for learning purposes ",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^15.5.3",
+    "react-dom": "^15.5.3",
+    "redux": "^3.6.0",
+    "webpack": "^2.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveenith31/react-repo-for-learning.git"
+  },
+  "keywords": [
+    "N/A"
+  ],
+  "author": "Praveen Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praveenith31/react-repo-for-learning/issues"
+  },
+  "homepage": "https://github.com/praveenith31/react-repo-for-learning#readme"
+}
