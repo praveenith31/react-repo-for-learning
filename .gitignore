@@ -1,40 +1,7 @@
-# Logs
-# logs
-*.log
-*server.log.*
-
-# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
-.grunt
-
-# Compiled binary addons (http://nodejs.org/api/addons.html)
-build/Release
-dist
-
-# Dependency directory
-# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
-node_modules
-
-
-# Untracked files:
-#Coverage Reports, Docs and Changelogs
-**/coverage
-**/docs
-**/Changelog*.*
-**/public
-**/compiled
-
-
-# MAC Extra files created.
 .DS_Store
-**/.DS_Store
-**/.DS_Store/
-
-newrelic_agent.log
+node_modules
+scripts/constants/Config.js
+server/config
+server/public/css
+server/public/js
 npm-debug.log
-npm-debug.log.*
-.tmp
-.idea
-.swp
-.vscode
-
-.npmrc
